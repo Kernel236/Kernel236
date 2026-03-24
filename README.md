@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi I am Riccardo
 
-<!--
-**Kernel236/Kernel236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ICU Research Clinical Fellow at Guy's and St Thomas Hospital, London. 
+Anesthesiologist and Intensivist with a deep passion for computer science.
 
-Here are some ideas to get you started:
+-  🔭 Currently working on clinical data analysis projects and **[fastEIT](https://github.com/Kernel236/fastEIT)**, a Python library for parsing clinical EIT data from different vendor and file format. 
+- 👯 Looking to collaborate on ICU research, mainly mechanical ventilation and haemodynamics
+- 🌱 Interests: offensive security, operating systems internals, C, CTF
+- 📫 Reach me at: riccardo.delsignore01@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` · `R` · `C` · `Bash` · `JavaScript` · `HTML/CSS`
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Kernel236.png)](https://tryhackme.com/p/Kernel236)
+
+
+
+
+
+
+
