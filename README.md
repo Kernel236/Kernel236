@@ -5,7 +5,7 @@ Anesthesiologist and Intensivist with a deep passion for computer science.
 
 -  🔭 Currently working on clinical data analysis projects and **[fastEIT](https://github.com/Kernel236/fastEIT)**, a Python library for parsing clinical EIT data from different vendor and file format. 
 - 👯 Looking to collaborate on ICU research, mainly mechanical ventilation and haemodynamics
-- 🌱 Interests: offensive security, operating systems internals, C, CTF   [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/USERNAME)
+- 🌱 Interests: offensive security, operating systems internals, C, CTF   [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Kernel236)
 - 📫 Reach me at: riccardo.delsignore01@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
